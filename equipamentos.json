@@ -1,0 +1,604 @@
+[
+  {
+    "categoria": "Máquinas braços",
+    "nome": "Máquina Scott",
+    "arquivo": "Máquina Scott.png",
+    "caminho": "Academia/Equipamentos/Máquinas braços/Máquina Scott.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20bra%C3%A7os/M%C3%A1quina%20Scott.png"
+  },
+  {
+    "categoria": "Máquinas braços",
+    "nome": "Máquina tríceps",
+    "arquivo": "Máquina tríceps.png",
+    "caminho": "Academia/Equipamentos/Máquinas braços/Máquina tríceps.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20bra%C3%A7os/M%C3%A1quina%20tr%C3%ADceps.png"
+  },
+  {
+    "categoria": "Máquinas braços",
+    "nome": "Máquina Bíceps",
+    "arquivo": "Máquina Bíceps.png",
+    "caminho": "Academia/Equipamentos/Máquinas braços/Máquina Bíceps.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20bra%C3%A7os/M%C3%A1quina%20B%C3%ADceps.png"
+  },
+  {
+    "categoria": "Acessórios",
+    "nome": "Bola de ginástica",
+    "arquivo": "Bola de ginástica.png",
+    "caminho": "Academia/Equipamentos/Acessórios/Bola de ginástica.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Acess%C3%B3rios/Bola%20de%20gin%C3%A1stica.png"
+  },
+  {
+    "categoria": "Acessórios",
+    "nome": "Colchonete",
+    "arquivo": "Colchonete.png",
+    "caminho": "Academia/Equipamentos/Acessórios/Colchonete.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Acess%C3%B3rios/Colchonete.png"
+  },
+  {
+    "categoria": "Acessórios",
+    "nome": "Puxador",
+    "arquivo": "Puxador.png",
+    "caminho": "Academia/Equipamentos/Acessórios/Puxador.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Acess%C3%B3rios/Puxador.png"
+  },
+  {
+    "categoria": "Acessórios",
+    "nome": "Bola",
+    "arquivo": "Bola.png",
+    "caminho": "Academia/Equipamentos/Acessórios/Bola.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Acess%C3%B3rios/Bola.png"
+  },
+  {
+    "categoria": "Acessórios",
+    "nome": "Plataforma",
+    "arquivo": "Plataforma.png",
+    "caminho": "Academia/Equipamentos/Acessórios/Plataforma.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Acess%C3%B3rios/Plataforma.png"
+  },
+  {
+    "categoria": "Acessórios",
+    "nome": "Corda",
+    "arquivo": "Corda.png",
+    "caminho": "Academia/Equipamentos/Acessórios/Corda.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Acess%C3%B3rios/Corda.png"
+  },
+  {
+    "categoria": "Acessórios",
+    "nome": "Cabo de tornozelo",
+    "arquivo": "Cabo de tornozelo.png",
+    "caminho": "Academia/Equipamentos/Acessórios/Cabo de tornozelo.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Acess%C3%B3rios/Cabo%20de%20tornozelo.png"
+  },
+  {
+    "categoria": "Acessórios",
+    "nome": "Faixa glútea",
+    "arquivo": "Faixa glútea.png",
+    "caminho": "Academia/Equipamentos/Acessórios/Faixa glútea.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Acess%C3%B3rios/Faixa%20gl%C3%BAtea.png"
+  },
+  {
+    "categoria": "Acessórios",
+    "nome": "Roda abdominal",
+    "arquivo": "Roda abdominal.png",
+    "caminho": "Academia/Equipamentos/Acessórios/Roda abdominal.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Acess%C3%B3rios/Roda%20abdominal.png"
+  },
+  {
+    "categoria": "Acessórios",
+    "nome": "Faixa elástica",
+    "arquivo": "Faixa elástica.png",
+    "caminho": "Academia/Equipamentos/Acessórios/Faixa elástica.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Acess%C3%B3rios/Faixa%20el%C3%A1stica.png"
+  },
+  {
+    "categoria": "Acessórios",
+    "nome": "Peso de tornozelo",
+    "arquivo": "Peso de tornozelo.png",
+    "caminho": "Academia/Equipamentos/Acessórios/Peso de tornozelo.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Acess%C3%B3rios/Peso%20de%20tornozelo.png"
+  },
+  {
+    "categoria": "Acessórios",
+    "nome": "Rolo",
+    "arquivo": "Rolo.png",
+    "caminho": "Academia/Equipamentos/Acessórios/Rolo.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Acess%C3%B3rios/Rolo.png"
+  },
+  {
+    "categoria": "Cabos",
+    "nome": "Pulldown lat",
+    "arquivo": "Pulldown lat.png",
+    "caminho": "Academia/Equipamentos/Cabos/Pulldown lat.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Cabos/Pulldown%20lat.png"
+  },
+  {
+    "categoria": "Cabos",
+    "nome": "Remada baixa",
+    "arquivo": "Remada baixa.png",
+    "caminho": "Academia/Equipamentos/Cabos/Remada baixa.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Cabos/Remada%20baixa.png"
+  },
+  {
+    "categoria": "Cabos",
+    "nome": "Crossover",
+    "arquivo": "Crossover.png",
+    "caminho": "Academia/Equipamentos/Cabos/Crossover.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Cabos/Crossover.png"
+  },
+  {
+    "categoria": "Cabos",
+    "nome": "Estação de cabo ajustável",
+    "arquivo": "Estação de cabo ajustável.png",
+    "caminho": "Academia/Equipamentos/Cabos/Estação de cabo ajustável.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Cabos/Esta%C3%A7%C3%A3o%20de%20cabo%20ajust%C3%A1vel.png"
+  },
+  {
+    "categoria": "Máquinas para ombros",
+    "nome": "Máquina de abdução de ombros",
+    "arquivo": "Máquina de abdução de ombros.png",
+    "caminho": "Academia/Equipamentos/Máquinas para ombros/Máquina de abdução de ombros.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20para%20ombros/M%C3%A1quina%20de%20abdu%C3%A7%C3%A3o%20de%20ombros.png"
+  },
+  {
+    "categoria": "Máquinas para ombros",
+    "nome": "Seletor de prensa suspensa",
+    "arquivo": "Seletor de prensa suspensa.png",
+    "caminho": "Academia/Equipamentos/Máquinas para ombros/Seletor de prensa suspensa.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20para%20ombros/Seletor%20de%20prensa%20suspensa.png"
+  },
+  {
+    "categoria": "Máquina panturrilha",
+    "nome": "Extensão de panturrilha em pé",
+    "arquivo": "Extensão de panturrilha em pé.png",
+    "caminho": "Academia/Equipamentos/Máquina panturrilha/Extensão de panturrilha em pé.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quina%20panturrilha/Extens%C3%A3o%20de%20panturrilha%20em%20p%C3%A9.png"
+  },
+  {
+    "categoria": "Máquina panturrilha",
+    "nome": "Extensão de panturrilha sentado",
+    "arquivo": "Extensão de panturrilha sentado.png",
+    "caminho": "Academia/Equipamentos/Máquina panturrilha/Extensão de panturrilha sentado.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quina%20panturrilha/Extens%C3%A3o%20de%20panturrilha%20sentado.png"
+  },
+  {
+    "categoria": "Máquinas Costas",
+    "nome": "Puxada Alta Convergente",
+    "arquivo": "Puxada Alta Convergente.png",
+    "caminho": "Academia/Equipamentos/Máquinas Costas/Puxada Alta Convergente.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20Costas/Puxada%20Alta%20Convergente.png"
+  },
+  {
+    "categoria": "Máquinas Costas",
+    "nome": "Seletor de linha com suporte no peito",
+    "arquivo": "Seletor de linha com suporte no peito.png",
+    "caminho": "Academia/Equipamentos/Máquinas Costas/Seletor de linha com suporte no peito.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20Costas/Seletor%20de%20linha%20com%20suporte%20no%20peito.png"
+  },
+  {
+    "categoria": "Máquinas Costas",
+    "nome": "Máquina de flexão de braço com suporte",
+    "arquivo": "Máquina de flexão de braço com suporte.png",
+    "caminho": "Academia/Equipamentos/Máquinas Costas/Máquina de flexão de braço com suporte.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20Costas/M%C3%A1quina%20de%20flex%C3%A3o%20de%20bra%C3%A7o%20com%20suporte.png"
+  },
+  {
+    "categoria": "Máquinas Costas",
+    "nome": "Remada com apoio no peito com anilha",
+    "arquivo": "Remada com apoio no peito com anilha.png",
+    "caminho": "Academia/Equipamentos/Máquinas Costas/Remada com apoio no peito com anilha.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20Costas/Remada%20com%20apoio%20no%20peito%20com%20anilha.png"
+  },
+  {
+    "categoria": "Máquinas Costas",
+    "nome": "Remada Cavalinho",
+    "arquivo": "Remada Cavalinho.png",
+    "caminho": "Academia/Equipamentos/Máquinas Costas/Remada Cavalinho.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20Costas/Remada%20Cavalinho.png"
+  },
+  {
+    "categoria": "Máquinas Costas",
+    "nome": "Puxada dorsal com anilha",
+    "arquivo": "Puxada dorsal com anilha.png",
+    "caminho": "Academia/Equipamentos/Máquinas Costas/Puxada dorsal com anilha.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20Costas/Puxada%20dorsal%20com%20anilha.png"
+  },
+  {
+    "categoria": "Máquinas Pernas",
+    "nome": "Cadeira Flexora",
+    "arquivo": "Cadeira Flexora.png",
+    "caminho": "Academia/Equipamentos/Máquinas Pernas/Cadeira Flexora.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20Pernas/Cadeira%20Flexora.png"
+  },
+  {
+    "categoria": "Máquinas Pernas",
+    "nome": "Agachamento Articulado",
+    "arquivo": "Agachamento Articulado.png",
+    "caminho": "Academia/Equipamentos/Máquinas Pernas/Agachamento Articulado.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20Pernas/Agachamento%20Articulado.png"
+  },
+  {
+    "categoria": "Máquinas Pernas",
+    "nome": "Cadeira Adutora",
+    "arquivo": "Cadeira Adutora.png",
+    "caminho": "Academia/Equipamentos/Máquinas Pernas/Cadeira Adutora.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20Pernas/Cadeira%20Adutora.png"
+  },
+  {
+    "categoria": "Máquinas Pernas",
+    "nome": "Flexão de Perna com Alavanca",
+    "arquivo": "Flexão de Perna com Alavanca.png",
+    "caminho": "Academia/Equipamentos/Máquinas Pernas/Flexão de Perna com Alavanca.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20Pernas/Flex%C3%A3o%20de%20Perna%20com%20Alavanca.png"
+  },
+  {
+    "categoria": "Máquinas Pernas",
+    "nome": "Mesa Flexora",
+    "arquivo": "Mesa Flexora.png",
+    "caminho": "Academia/Equipamentos/Máquinas Pernas/Mesa Flexora.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20Pernas/Mesa%20Flexora.png"
+  },
+  {
+    "categoria": "Máquinas Pernas",
+    "nome": "Cadeira Extensora",
+    "arquivo": "Cadeira Extensora.png",
+    "caminho": "Academia/Equipamentos/Máquinas Pernas/Cadeira Extensora.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20Pernas/Cadeira%20Extensora.png"
+  },
+  {
+    "categoria": "Máquinas Pernas",
+    "nome": "Leg Press Selector",
+    "arquivo": "Leg Press Selector.png",
+    "caminho": "Academia/Equipamentos/Máquinas Pernas/Leg Press Selector.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20Pernas/Leg%20Press%20Selector.png"
+  },
+  {
+    "categoria": "Máquinas Pernas",
+    "nome": "Hack",
+    "arquivo": "Hack.png",
+    "caminho": "Academia/Equipamentos/Máquinas Pernas/Hack.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20Pernas/Hack.png"
+  },
+  {
+    "categoria": "Máquinas Pernas",
+    "nome": "Leg Press 45",
+    "arquivo": "Leg Press 45.png",
+    "caminho": "Academia/Equipamentos/Máquinas Pernas/Leg Press 45.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20Pernas/Leg%20Press%2045.png"
+  },
+  {
+    "categoria": "Cardio",
+    "nome": " Bicicleta Reclinada",
+    "arquivo": " Bicicleta Reclinada.png",
+    "caminho": "Academia/Equipamentos/Cardio/ Bicicleta Reclinada.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Cardio/%20Bicicleta%20Reclinada.png"
+  },
+  {
+    "categoria": "Cardio",
+    "nome": "Remo",
+    "arquivo": "Remo.png",
+    "caminho": "Academia/Equipamentos/Cardio/Remo.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Cardio/Remo.png"
+  },
+  {
+    "categoria": "Cardio",
+    "nome": "Simulador Escada",
+    "arquivo": "Simulador Escada.png",
+    "caminho": "Academia/Equipamentos/Cardio/Simulador Escada.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Cardio/Simulador%20Escada.png"
+  },
+  {
+    "categoria": "Cardio",
+    "nome": "Elíptica",
+    "arquivo": "Elíptica.png",
+    "caminho": "Academia/Equipamentos/Cardio/Elíptica.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Cardio/El%C3%ADptica.png"
+  },
+  {
+    "categoria": "Cardio",
+    "nome": "Airbike",
+    "arquivo": "Airbike.png",
+    "caminho": "Academia/Equipamentos/Cardio/Airbike.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Cardio/Airbike.png"
+  },
+  {
+    "categoria": "Cardio",
+    "nome": "Esteira",
+    "arquivo": "Esteira.png",
+    "caminho": "Academia/Equipamentos/Cardio/Esteira.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Cardio/Esteira.png"
+  },
+  {
+    "categoria": "Cardio",
+    "nome": "Bicicleta Ergométrica",
+    "arquivo": "Bicicleta Ergométrica.png",
+    "caminho": "Academia/Equipamentos/Cardio/Bicicleta Ergométrica.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Cardio/Bicicleta%20Ergom%C3%A9trica.png"
+  },
+  {
+    "categoria": "Máquinas Abdominais",
+    "nome": "Ab Station com bola",
+    "arquivo": "Ab Station com bola.png",
+    "caminho": "Academia/Equipamentos/Máquinas Abdominais/Ab Station com bola.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20Abdominais/Ab%20Station%20com%20bola.png"
+  },
+  {
+    "categoria": "Máquinas Abdominais",
+    "nome": "Máquina Ab",
+    "arquivo": "Máquina Ab.png",
+    "caminho": "Academia/Equipamentos/Máquinas Abdominais/Máquina Ab.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20Abdominais/M%C3%A1quina%20Ab.png"
+  },
+  {
+    "categoria": "Máquinas Abdominais",
+    "nome": "Ab Station",
+    "arquivo": "Ab Station.png",
+    "caminho": "Academia/Equipamentos/Máquinas Abdominais/Ab Station.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20Abdominais/Ab%20Station.png"
+  },
+  {
+    "categoria": "Máquinas Abdominais",
+    "nome": "Isolator",
+    "arquivo": "Isolator.png",
+    "caminho": "Academia/Equipamentos/Máquinas Abdominais/Isolator.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20Abdominais/Isolator.png"
+  },
+  {
+    "categoria": "Bancos, Barras, Prateleiras",
+    "nome": "Smith",
+    "arquivo": "Smith.png",
+    "caminho": "Academia/Equipamentos/Bancos, Barras, Prateleiras/Smith.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Bancos%2C%20Barras%2C%20Prateleiras/Smith.png"
+  },
+  {
+    "categoria": "Bancos, Barras, Prateleiras",
+    "nome": "Suporte para supino",
+    "arquivo": "Suporte para supino.png",
+    "caminho": "Academia/Equipamentos/Bancos, Barras, Prateleiras/Suporte para supino.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Bancos%2C%20Barras%2C%20Prateleiras/Suporte%20para%20supino.png"
+  },
+  {
+    "categoria": "Bancos, Barras, Prateleiras",
+    "nome": "Suporte para supino inclinado",
+    "arquivo": "Suporte para supino inclinado.png",
+    "caminho": "Academia/Equipamentos/Bancos, Barras, Prateleiras/Suporte para supino inclinado.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Bancos%2C%20Barras%2C%20Prateleiras/Suporte%20para%20supino%20inclinado.png"
+  },
+  {
+    "categoria": "Bancos, Barras, Prateleiras",
+    "nome": "Banco sentado",
+    "arquivo": "Banco sentado.png",
+    "caminho": "Academia/Equipamentos/Bancos, Barras, Prateleiras/Banco sentado.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Bancos%2C%20Barras%2C%20Prateleiras/Banco%20sentado.png"
+  },
+  {
+    "categoria": "Bancos, Barras, Prateleiras",
+    "nome": "Suporte de agachamento",
+    "arquivo": "Suporte de agachamento.png",
+    "caminho": "Academia/Equipamentos/Bancos, Barras, Prateleiras/Suporte de agachamento.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Bancos%2C%20Barras%2C%20Prateleiras/Suporte%20de%20agachamento.png"
+  },
+  {
+    "categoria": "Bancos, Barras, Prateleiras",
+    "nome": "Suporte Scott em pé",
+    "arquivo": "Suporte Scott em pé.png",
+    "caminho": "Academia/Equipamentos/Bancos, Barras, Prateleiras/Suporte Scott em pé.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Bancos%2C%20Barras%2C%20Prateleiras/Suporte%20Scott%20em%20p%C3%A9.png"
+  },
+  {
+    "categoria": "Bancos, Barras, Prateleiras",
+    "nome": "Suporte para supino declinado",
+    "arquivo": "Suporte para supino declinado.png",
+    "caminho": "Academia/Equipamentos/Bancos, Barras, Prateleiras/Suporte para supino declinado.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Bancos%2C%20Barras%2C%20Prateleiras/Suporte%20para%20supino%20declinado.png"
+  },
+  {
+    "categoria": "Bancos, Barras, Prateleiras",
+    "nome": "Banco ajustável",
+    "arquivo": "Banco ajustável.png",
+    "caminho": "Academia/Equipamentos/Bancos, Barras, Prateleiras/Banco ajustável.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Bancos%2C%20Barras%2C%20Prateleiras/Banco%20ajust%C3%A1vel.png"
+  },
+  {
+    "categoria": "Bancos, Barras, Prateleiras",
+    "nome": "Banco ab",
+    "arquivo": "Banco ab.png",
+    "caminho": "Academia/Equipamentos/Bancos, Barras, Prateleiras/Banco ab.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Bancos%2C%20Barras%2C%20Prateleiras/Banco%20ab.png"
+  },
+  {
+    "categoria": "Bancos, Barras, Prateleiras",
+    "nome": "Smith com banco inclinado",
+    "arquivo": "Smith com banco inclinado.png",
+    "caminho": "Academia/Equipamentos/Bancos, Barras, Prateleiras/Smith com banco inclinado.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Bancos%2C%20Barras%2C%20Prateleiras/Smith%20com%20banco%20inclinado.png"
+  },
+  {
+    "categoria": "Bancos, Barras, Prateleiras",
+    "nome": "Extensão das costas",
+    "arquivo": "Extensão das costas.png",
+    "caminho": "Academia/Equipamentos/Bancos, Barras, Prateleiras/Extensão das costas.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Bancos%2C%20Barras%2C%20Prateleiras/Extens%C3%A3o%20das%20costas.png"
+  },
+  {
+    "categoria": "Bancos, Barras, Prateleiras",
+    "nome": "Gaiola",
+    "arquivo": "Gaiola.png",
+    "caminho": "Academia/Equipamentos/Bancos, Barras, Prateleiras/Gaiola.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Bancos%2C%20Barras%2C%20Prateleiras/Gaiola.png"
+  },
+  {
+    "categoria": "Bancos, Barras, Prateleiras",
+    "nome": "Banco plano",
+    "arquivo": "Banco plano.png",
+    "caminho": "Academia/Equipamentos/Bancos, Barras, Prateleiras/Banco plano.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Bancos%2C%20Barras%2C%20Prateleiras/Banco%20plano.png"
+  },
+  {
+    "categoria": "Barras e Pesos",
+    "nome": "Barra Olímpica",
+    "arquivo": "Barra Olímpica.png",
+    "caminho": "Academia/Equipamentos/Barras e Pesos/Barra Olímpica.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Barras%20e%20Pesos/Barra%20Ol%C3%ADmpica.png"
+  },
+  {
+    "categoria": "Barras e Pesos",
+    "nome": "Kettlebells",
+    "arquivo": "Kettlebells.png",
+    "caminho": "Academia/Equipamentos/Barras e Pesos/Kettlebells.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Barras%20e%20Pesos/Kettlebells.png"
+  },
+  {
+    "categoria": "Barras e Pesos",
+    "nome": "Barra H",
+    "arquivo": "Barra H.png",
+    "caminho": "Academia/Equipamentos/Barras e Pesos/Barra H.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Barras%20e%20Pesos/Barra%20H.png"
+  },
+  {
+    "categoria": "Barras e Pesos",
+    "nome": "Halter",
+    "arquivo": "Halter.png",
+    "caminho": "Academia/Equipamentos/Barras e Pesos/Halter.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Barras%20e%20Pesos/Halter.png"
+  },
+  {
+    "categoria": "Barras e Pesos",
+    "nome": "Barra W",
+    "arquivo": "Barra W.png",
+    "caminho": "Academia/Equipamentos/Barras e Pesos/Barra W.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Barras%20e%20Pesos/Barra%20W.png"
+  },
+  {
+    "categoria": "Barras e Pesos",
+    "nome": "Barra V",
+    "arquivo": "Barra V.png",
+    "caminho": "Academia/Equipamentos/Barras e Pesos/Barra V.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Barras%20e%20Pesos/Barra%20V.png"
+  },
+  {
+    "categoria": "Barras e Pesos",
+    "nome": "Barra montada",
+    "arquivo": "Barra montada.png",
+    "caminho": "Academia/Equipamentos/Barras e Pesos/Barra montada.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Barras%20e%20Pesos/Barra%20montada.png"
+  },
+  {
+    "categoria": "Barras e Pesos",
+    "nome": "Trinângulo",
+    "arquivo": "Trinângulo.png",
+    "caminho": "Academia/Equipamentos/Barras e Pesos/Trinângulo.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Barras%20e%20Pesos/Trin%C3%A2ngulo.png"
+  },
+  {
+    "categoria": "Barras e Pesos",
+    "nome": "Barra Armadilha",
+    "arquivo": "Barra Armadilha.png",
+    "caminho": "Academia/Equipamentos/Barras e Pesos/Barra Armadilha.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Barras%20e%20Pesos/Barra%20Armadilha.png"
+  },
+  {
+    "categoria": "Barras e Pesos",
+    "nome": "Barra EZ",
+    "arquivo": "Barra EZ.png",
+    "caminho": "Academia/Equipamentos/Barras e Pesos/Barra EZ.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Barras%20e%20Pesos/Barra%20EZ.png"
+  },
+  {
+    "categoria": "Barras e Pesos",
+    "nome": "Mini halter",
+    "arquivo": "Mini halter.png",
+    "caminho": "Academia/Equipamentos/Barras e Pesos/Mini halter.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Barras%20e%20Pesos/Mini%20halter.png"
+  },
+  {
+    "categoria": "Barras e Pesos",
+    "nome": "Barra reta",
+    "arquivo": "Barra reta.png",
+    "caminho": "Academia/Equipamentos/Barras e Pesos/Barra reta.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Barras%20e%20Pesos/Barra%20reta.png"
+  },
+  {
+    "categoria": "Barras e Pesos",
+    "nome": "Barra romana",
+    "arquivo": "Barra romana.png",
+    "caminho": "Academia/Equipamentos/Barras e Pesos/Barra romana.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Barras%20e%20Pesos/Barra%20romana.png"
+  },
+  {
+    "categoria": "Barras e Pesos",
+    "nome": "Anilha",
+    "arquivo": "Anilha.png",
+    "caminho": "Academia/Equipamentos/Barras e Pesos/Anilha.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Barras%20e%20Pesos/Anilha.png"
+  },
+  {
+    "categoria": "Máquinas Glúteos",
+    "nome": "Máquina Elevação pélvica",
+    "arquivo": "Máquina Elevação pélvica.png",
+    "caminho": "Academia/Equipamentos/Máquinas Glúteos/Máquina Elevação pélvica.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20Gl%C3%BAteos/M%C3%A1quina%20Eleva%C3%A7%C3%A3o%20p%C3%A9lvica.png"
+  },
+  {
+    "categoria": "Máquinas Glúteos",
+    "nome": "Cadeira Abdutora",
+    "arquivo": "Cadeira Abdutora.png",
+    "caminho": "Academia/Equipamentos/Máquinas Glúteos/Cadeira Abdutora.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20Gl%C3%BAteos/Cadeira%20Abdutora.png"
+  },
+  {
+    "categoria": "Máquinas Glúteos",
+    "nome": "Máquina de Glúteo",
+    "arquivo": "Máquina de Glúteo.png",
+    "caminho": "Academia/Equipamentos/Máquinas Glúteos/Máquina de Glúteo.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20Gl%C3%BAteos/M%C3%A1quina%20de%20Gl%C3%BAteo.png"
+  },
+  {
+    "categoria": "Máquinas Glúteos",
+    "nome": "Coice Glúteos em pé",
+    "arquivo": "Coice Glúteos em pé.png",
+    "caminho": "Academia/Equipamentos/Máquinas Glúteos/Coice Glúteos em pé.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20Gl%C3%BAteos/Coice%20Gl%C3%BAteos%20em%20p%C3%A9.png"
+  },
+  {
+    "categoria": "Máquinas Glúteos",
+    "nome": "Elevação de quadril",
+    "arquivo": "Elevação de quadril.png",
+    "caminho": "Academia/Equipamentos/Máquinas Glúteos/Elevação de quadril.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20Gl%C3%BAteos/Eleva%C3%A7%C3%A3o%20de%20quadril.png"
+  },
+  {
+    "categoria": "Máquinas de peito",
+    "nome": "Máquina de imersão suportada",
+    "arquivo": "Máquina de imersão suportada.png",
+    "caminho": "Academia/Equipamentos/Máquinas de peito/Máquina de imersão suportada.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20de%20peito/M%C3%A1quina%20de%20imers%C3%A3o%20suportada.png"
+  },
+  {
+    "categoria": "Máquinas de peito",
+    "nome": "Paralela",
+    "arquivo": "Paralela.png",
+    "caminho": "Academia/Equipamentos/Máquinas de peito/Paralela.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20de%20peito/Paralela.png"
+  },
+  {
+    "categoria": "Máquinas de peito",
+    "nome": "Supino máquina",
+    "arquivo": "Supino máquina.png",
+    "caminho": "Academia/Equipamentos/Máquinas de peito/Supino máquina.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20de%20peito/Supino%20m%C3%A1quina.png"
+  },
+  {
+    "categoria": "Máquinas de peito",
+    "nome": "Peck deck (Voador)",
+    "arquivo": "Peck deck (Voador).png",
+    "caminho": "Academia/Equipamentos/Máquinas de peito/Peck deck (Voador).png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20de%20peito/Peck%20deck%20%28Voador%29.png"
+  },
+  {
+    "categoria": "Máquinas de peito",
+    "nome": "Supino com anilha",
+    "arquivo": "Supino com anilha.png",
+    "caminho": "Academia/Equipamentos/Máquinas de peito/Supino com anilha.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20de%20peito/Supino%20com%20anilha.png"
+  }
+]
