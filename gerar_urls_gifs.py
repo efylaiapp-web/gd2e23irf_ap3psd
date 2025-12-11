@@ -9,19 +9,22 @@ GITHUB_USER = "efylaiapp-web"
 GITHUB_REPO = "gd2e23irf_ap3psd"
 BRANCH = "main"
 
-# Pasta dentro do repositório onde estão os GIFs
+# Pasta dentro do repositório onde estão os arquivos
 BASE_PATH_REPO = "Academia"   # sem barra no começo nem no final
 
 # Nome do arquivo de saída com as URLs
 OUTPUT_FILE = "urls_gifs.txt"
 # ===============================
 
+# extensões que queremos pegar
+EXTENSOES_VALIDAS = (".gif", ".png")
+
 
 def main():
     # Base da URL crua do GitHub
     base_url = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/{BRANCH}/"
 
-    # Diretório raiz para procurar GIFs
+    # Diretório raiz para procurar arquivos
     root_dir = BASE_PATH_REPO if BASE_PATH_REPO else "."
 
     urls = []
@@ -32,7 +35,7 @@ def main():
             continue
 
         for fname in files:
-            if fname.lower().endswith(".gif"):
+            if fname.lower().endswith(EXTENSOES_VALIDAS):
                 # Caminho relativo ao repositório
                 file_path = os.path.join(root, fname)
                 rel_path = os.path.relpath(file_path, ".")  # relativo à raiz
