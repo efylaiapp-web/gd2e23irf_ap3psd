@@ -21,11 +21,6 @@
   },
   {
     "grupo": "Cardio GYM",
-    "nome": "[Cardio GYM] Corrida na Bicicleta Ergométrica",
-    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Cardio%20GYM%20%2811%29/%5BCardio%20GYM%5D%20Corrida%20na%20Bicicleta%20Ergom%C3%A9trica.gif"
-  },
-  {
-    "grupo": "Cardio GYM",
     "nome": "[Cardio GYM] Esteira Ergométrica",
     "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Cardio%20GYM%20%2811%29/%5BCardio%20GYM%5D%20Esteira%20Ergom%C3%A9trica.gif"
   },
@@ -53,6 +48,11 @@
     "grupo": "Cardio GYM",
     "nome": "[Cardio GYM] Elíptica",
     "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Cardio%20GYM%20%2811%29/%5BCardio%20GYM%5D%20El%C3%ADptica.gif"
+  },
+  {
+    "grupo": "Cardio GYM",
+    "nome": "[Cardio GYM] Bicicleta Ergométrica",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Cardio%20GYM%20%2811%29/%5BCardio%20GYM%5D%20Bicicleta%20Ergom%C3%A9trica.gif"
   },
   {
     "grupo": "Pescoço",
