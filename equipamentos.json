@@ -532,6 +532,118 @@
     "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Barras%20e%20Pesos/Anilha.png"
   },
   {
+    "categoria": "Fotos Musculos",
+    "nome": "Bíceps",
+    "arquivo": "Bíceps.png",
+    "caminho": "Academia/Equipamentos/Fotos Musculos/Bíceps.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/B%C3%ADceps.png"
+  },
+  {
+    "categoria": "Fotos Musculos",
+    "nome": "Panturrilha",
+    "arquivo": "Panturrilha.png",
+    "caminho": "Academia/Equipamentos/Fotos Musculos/Panturrilha.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Panturrilha.png"
+  },
+  {
+    "categoria": "Fotos Musculos",
+    "nome": "Peito",
+    "arquivo": "Peito.png",
+    "caminho": "Academia/Equipamentos/Fotos Musculos/Peito.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Peito.png"
+  },
+  {
+    "categoria": "Fotos Musculos",
+    "nome": "Trapézio",
+    "arquivo": "Trapézio.png",
+    "caminho": "Academia/Equipamentos/Fotos Musculos/Trapézio.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Trap%C3%A9zio.png"
+  },
+  {
+    "categoria": "Fotos Musculos",
+    "nome": "Tríceps",
+    "arquivo": "Tríceps.png",
+    "caminho": "Academia/Equipamentos/Fotos Musculos/Tríceps.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Tr%C3%ADceps.png"
+  },
+  {
+    "categoria": "Fotos Musculos",
+    "nome": "Quadriceps",
+    "arquivo": "Quadriceps.png",
+    "caminho": "Academia/Equipamentos/Fotos Musculos/Quadriceps.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Quadriceps.png"
+  },
+  {
+    "categoria": "Fotos Musculos",
+    "nome": "Abdutor",
+    "arquivo": "Abdutor.png",
+    "caminho": "Academia/Equipamentos/Fotos Musculos/Abdutor.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Abdutor.png"
+  },
+  {
+    "categoria": "Fotos Musculos",
+    "nome": "Abdômen",
+    "arquivo": "Abdômen.png",
+    "caminho": "Academia/Equipamentos/Fotos Musculos/Abdômen.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Abd%C3%B4men.png"
+  },
+  {
+    "categoria": "Fotos Musculos",
+    "nome": "Posterior",
+    "arquivo": "Posterior.png",
+    "caminho": "Academia/Equipamentos/Fotos Musculos/Posterior.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Posterior.png"
+  },
+  {
+    "categoria": "Fotos Musculos",
+    "nome": "Antebraço",
+    "arquivo": "Antebraço.png",
+    "caminho": "Academia/Equipamentos/Fotos Musculos/Antebraço.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Antebra%C3%A7o.png"
+  },
+  {
+    "categoria": "Fotos Musculos",
+    "nome": "Glúteo",
+    "arquivo": "Glúteo.png",
+    "caminho": "Academia/Equipamentos/Fotos Musculos/Glúteo.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Gl%C3%BAteo.png"
+  },
+  {
+    "categoria": "Fotos Musculos",
+    "nome": "Dorsal Lats",
+    "arquivo": "Dorsal Lats.png",
+    "caminho": "Academia/Equipamentos/Fotos Musculos/Dorsal Lats.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Dorsal%20Lats.png"
+  },
+  {
+    "categoria": "Fotos Musculos",
+    "nome": "Lombar",
+    "arquivo": "Lombar.png",
+    "caminho": "Academia/Equipamentos/Fotos Musculos/Lombar.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Lombar.png"
+  },
+  {
+    "categoria": "Fotos Musculos",
+    "nome": "Adutor",
+    "arquivo": "Adutor.png",
+    "caminho": "Academia/Equipamentos/Fotos Musculos/Adutor.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Adutor.png"
+  },
+  {
+    "categoria": "Fotos Musculos",
+    "nome": "Ombro",
+    "arquivo": "Ombro.png",
+    "caminho": "Academia/Equipamentos/Fotos Musculos/Ombro.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Ombro.png"
+  },
+  {
+    "categoria": "Fotos Musculos",
+    "nome": "Pescoço",
+    "arquivo": "Pescoço.png",
+    "caminho": "Academia/Equipamentos/Fotos Musculos/Pescoço.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Pesco%C3%A7o.png"
+  },
+  {
     "categoria": "Máquinas Glúteos",
     "nome": "Máquina Elevação pélvica",
     "arquivo": "Máquina Elevação pélvica.png",
