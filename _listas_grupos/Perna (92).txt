@@ -1,0 +1,94 @@
+[Perna (92)] — Total: 92 arquivos
+============================================================
+[Perna] Adução de Quadril (Máquina).gif
+[Perna] Adução do Quadril (Cabo).gif
+[Perna] Adução do Quadril Lateral com Alavanca (Máquina).gif
+[Perna] Afundo (Barra).gif
+[Perna] Afundo (Halter).gif
+[Perna] Afundo (Smith).gif
+[Perna] Afundo com landmine (Barra).gif
+[Perna] Afundo Lateral com Barra.gif
+[Perna] Afundo no banco (Halter).gif
+[Perna] Agachamento (Barra).gif
+[Perna] Agachamento (Kettlebell).gif
+[Perna] Agachamento (Smith).gif
+[Perna] Agachamento Búlgaro (Barra).gif
+[Perna] Agachamento Búlgaro (Halter).gif
+[Perna] Agachamento búlgaro com salto.gif
+[Perna] Agachamento Camarão.gif
+[Perna] Agachamento com Cinto (Máquina).gif
+[Perna] Agachamento com salto (Halter).gif
+[Perna] Agachamento com Salto usando Barra Hexagonal (Barra).gif
+[Perna] Agachamento com Trava (Barra).gif
+[Perna] Agachamento em plié (Halter).gif
+[Perna] Agachamento Frontal (Cabo).gif
+[Perna] Agachamento Frontal (Halter).gif
+[Perna] Agachamento Frontal (Kettlebell).gif
+[Perna] Agachamento Frontal (Smith).gif
+[Perna] Agachamento Frontal no Banco (Barra).gif
+[Perna] Agachamento Frontal.gif
+[Perna] Agachamento Goblet (Halter).gif
+[Perna] Agachamento Hack (Barra).gif
+[Perna] Agachamento Hack (Máquina).gif
+[Perna] Agachamento Hack Invertido (Máquina).gif
+[Perna] Agachamento Jefferson (Barra).gif
+[Perna] Agachamento na Parede com Bola de Exercício (Bola).gif
+[Perna] Agachamento no Banco (Halter).gif
+[Perna] Agachamento no Landmine (Barra).gif
+[Perna] Agachamento Sissy.gif
+[Perna] Agachamento Skater.gif
+[Perna] Agachamento Sumô (Barra).gif
+[Perna] Agachamento Sumô (Halter).gif
+[Perna] Agachamento Sumô.gif
+[Perna] Agachamento unilateral cruzado (Barra).gif
+[Perna] Agachamento unilateral cruzado (Halter).gif
+[Perna] Agachamento Zercher (Barra).gif
+[Perna] Avanço (Barra).gif
+[Perna] Avanço (Cabo).gif
+[Perna] Avanço (Halter).gif
+[Perna] Avanço com Puxador (Cabo).gif
+[Perna] Avanço Invertido (Halter).gif
+[Perna] Avanço Invertido.gif
+[Perna] Avanço para Trás (Halter).gif
+[Perna] Avanço.gif
+[Perna] Bom dia (Barra).gif
+[Perna] Bom Dia (Smith).gif
+[Perna] Cadeira extensora (Máquina).gif
+[Perna] Cadeira flexora (Máquina).gif
+[Perna] Descida de um Pé Só.gif
+[Perna] Elevação de Joelho (Halter).gif
+[Perna] Elevação de Perna em Pé com Alavanca (Máquina).gif
+[Perna] Elevação em Degrau (Barra).gif
+[Perna] Extensão de Perna Unilateral (Máquina).gif
+[Perna] Flexão de Perna Unilateral (Máquina).gif
+[Perna] Flexão de Pernas com Alavanca (Máquina).gif
+[Perna] Flexão de Pernas Declinado (Halter).gif
+[Perna] Flexão de Pernas na Bola de Estabilidade (Bola).gif
+[Perna] Flexão Nórdica.gif
+[Perna] Leg Press (Máquina).gif
+[Perna] Leg press 90 (Smith).gif
+[Perna] Leg Press Horizontal (Máquina).gif
+[Perna] Leg Press unilateral (Máquina).gif
+[Perna] Levantamento com Suporte (Barra).gif
+[Perna] Levantamento Terra (Barra).gif
+[Perna] Levantamento Terra (Halter).gif
+[Perna] Levantamento Terra (Kettlebell).gif
+[Perna] Levantamento Terra com Alavanca (Máquina).gif
+[Perna] Levantamento Terra com Barra Hexagonal (Barra).gif
+[Perna] Levantamento Terra com Barra no Landmine (Barra).gif
+[Perna] Levantamento Terra Romeno (Barra).gif
+[Perna] Levantamento Terra romeno (Halter).gif
+[Perna] Levantamento Terra Sumô (Barra).gif
+[Perna] Levantamento Terra Sumô (Halter).gif
+[Perna] Levantamento Terra Zercher (Barra).gif
+[Perna] Mesa flexora (Máquina).gif
+[Perna] Mesa Flexora Unilateral (Máquina).gif
+[Perna] Peso muerto piernas rígidas (Barra).gif
+[Perna] Ponte de Glúteos (Barra).gif
+[Perna] Pressão Unilateral Assistida por Alavanca (Máquina).gif
+[Perna] Stiff (Barra).gif
+[Perna] Stiff (Halter).gif
+[Perna] Stiff Unilateral (Barra).gif
+[Perna] Stiff Unilateral (Halter).gif
+[Perna] Subida no Step com Elevação de Joelhos.gif
+[Perna] Wall Sit.gif

@@ -1,0 +1,104 @@
+[Equipamentos] — Total: 102 arquivos
+============================================================
+Acessórios/Bola de ginástica.png
+Acessórios/Bola.png
+Acessórios/Cabo de tornozelo.png
+Acessórios/Colchonete.png
+Acessórios/Corda.png
+Acessórios/Faixa elástica.png
+Acessórios/Faixa glútea.png
+Acessórios/Peso de tornozelo.png
+Acessórios/Plataforma.png
+Acessórios/Puxador.png
+Acessórios/Roda abdominal.png
+Acessórios/Rolo.png
+Bancos, Barras, Prateleiras/Banco ab.png
+Bancos, Barras, Prateleiras/Banco ajustável.png
+Bancos, Barras, Prateleiras/Banco plano.png
+Bancos, Barras, Prateleiras/Banco sentado.png
+Bancos, Barras, Prateleiras/Extensão das costas.png
+Bancos, Barras, Prateleiras/Gaiola.png
+Bancos, Barras, Prateleiras/Smith com banco inclinado.png
+Bancos, Barras, Prateleiras/Smith.png
+Bancos, Barras, Prateleiras/Suporte de agachamento.png
+Bancos, Barras, Prateleiras/Suporte para supino declinado.png
+Bancos, Barras, Prateleiras/Suporte para supino inclinado.png
+Bancos, Barras, Prateleiras/Suporte para supino.png
+Bancos, Barras, Prateleiras/Suporte Scott em pé.png
+Barras e Pesos/Anilha.png
+Barras e Pesos/Barra Armadilha.png
+Barras e Pesos/Barra EZ.png
+Barras e Pesos/Barra H.png
+Barras e Pesos/Barra montada.png
+Barras e Pesos/Barra Olímpica.png
+Barras e Pesos/Barra reta.png
+Barras e Pesos/Barra romana.png
+Barras e Pesos/Barra V.png
+Barras e Pesos/Barra W.png
+Barras e Pesos/Halter.png
+Barras e Pesos/Kettlebells.png
+Barras e Pesos/Mini halter.png
+Barras e Pesos/Trinângulo.png
+Cabos/Crossover.png
+Cabos/Estação de cabo ajustável.png
+Cabos/Pulldown lat.png
+Cabos/Remada baixa.png
+Cardio/ Bicicleta Reclinada.png
+Cardio/Airbike.png
+Cardio/Bicicleta Ergométrica.png
+Cardio/Elíptica.png
+Cardio/Esteira.png
+Cardio/Remo.png
+Cardio/Simulador Escada.png
+Fotos Musculos/Abdutor.png
+Fotos Musculos/Abdômen.png
+Fotos Musculos/Adutor.png
+Fotos Musculos/Antebraço.png
+Fotos Musculos/Bíceps.png
+Fotos Musculos/Dorsal Lats.png
+Fotos Musculos/Glúteo.png
+Fotos Musculos/Lombar.png
+Fotos Musculos/Ombro.png
+Fotos Musculos/Panturrilha.png
+Fotos Musculos/Peito.png
+Fotos Musculos/Pescoço.png
+Fotos Musculos/Posterior.png
+Fotos Musculos/Quadriceps.png
+Fotos Musculos/Trapézio.png
+Fotos Musculos/Tríceps.png
+Máquina panturrilha/Extensão de panturrilha em pé.png
+Máquina panturrilha/Extensão de panturrilha sentado.png
+Máquinas Abdominais/Ab Station com bola.png
+Máquinas Abdominais/Ab Station.png
+Máquinas Abdominais/Isolator.png
+Máquinas Abdominais/Máquina Ab.png
+Máquinas braços/Máquina Bíceps.png
+Máquinas braços/Máquina Scott.png
+Máquinas braços/Máquina tríceps.png
+Máquinas Costas/Máquina de flexão de braço com suporte.png
+Máquinas Costas/Puxada Alta Convergente.png
+Máquinas Costas/Puxada dorsal com anilha.png
+Máquinas Costas/Remada Cavalinho.png
+Máquinas Costas/Remada com apoio no peito com anilha.png
+Máquinas Costas/Seletor de linha com suporte no peito.png
+Máquinas de peito/Máquina de imersão suportada.png
+Máquinas de peito/Paralela.png
+Máquinas de peito/Peck deck (Voador).png
+Máquinas de peito/Supino com anilha.png
+Máquinas de peito/Supino máquina.png
+Máquinas Glúteos/Cadeira Abdutora.png
+Máquinas Glúteos/Coice Glúteos em pé.png
+Máquinas Glúteos/Elevação de quadril.png
+Máquinas Glúteos/Máquina de Glúteo.png
+Máquinas Glúteos/Máquina Elevação pélvica.png
+Máquinas para ombros/Máquina de abdução de ombros.png
+Máquinas para ombros/Seletor de prensa suspensa.png
+Máquinas Pernas/Agachamento Articulado.png
+Máquinas Pernas/Cadeira Adutora.png
+Máquinas Pernas/Cadeira Extensora.png
+Máquinas Pernas/Cadeira Flexora.png
+Máquinas Pernas/Flexão de Perna com Alavanca.png
+Máquinas Pernas/Hack.png
+Máquinas Pernas/Leg Press 45.png
+Máquinas Pernas/Leg Press Selector.png
+Máquinas Pernas/Mesa Flexora.png
