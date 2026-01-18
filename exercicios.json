@@ -1461,6 +1461,86 @@
   },
   {
     "grupo": "Equipamentos",
+    "nome": "Bíceps.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/B%C3%ADceps.png"
+  },
+  {
+    "grupo": "Equipamentos",
+    "nome": "Panturrilha.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Panturrilha.png"
+  },
+  {
+    "grupo": "Equipamentos",
+    "nome": "Peito.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Peito.png"
+  },
+  {
+    "grupo": "Equipamentos",
+    "nome": "Trapézio.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Trap%C3%A9zio.png"
+  },
+  {
+    "grupo": "Equipamentos",
+    "nome": "Tríceps.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Tr%C3%ADceps.png"
+  },
+  {
+    "grupo": "Equipamentos",
+    "nome": "Quadriceps.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Quadriceps.png"
+  },
+  {
+    "grupo": "Equipamentos",
+    "nome": "Abdutor.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Abdutor.png"
+  },
+  {
+    "grupo": "Equipamentos",
+    "nome": "Abdômen.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Abd%C3%B4men.png"
+  },
+  {
+    "grupo": "Equipamentos",
+    "nome": "Posterior.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Posterior.png"
+  },
+  {
+    "grupo": "Equipamentos",
+    "nome": "Antebraço.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Antebra%C3%A7o.png"
+  },
+  {
+    "grupo": "Equipamentos",
+    "nome": "Glúteo.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Gl%C3%BAteo.png"
+  },
+  {
+    "grupo": "Equipamentos",
+    "nome": "Dorsal Lats.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Dorsal%20Lats.png"
+  },
+  {
+    "grupo": "Equipamentos",
+    "nome": "Lombar.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Lombar.png"
+  },
+  {
+    "grupo": "Equipamentos",
+    "nome": "Adutor.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Adutor.png"
+  },
+  {
+    "grupo": "Equipamentos",
+    "nome": "Ombro.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Ombro.png"
+  },
+  {
+    "grupo": "Equipamentos",
+    "nome": "Pescoço.png",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/Fotos%20Musculos/Pesco%C3%A7o.png"
+  },
+  {
+    "grupo": "Equipamentos",
     "nome": "Máquina Elevação pélvica.png",
     "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/Equipamentos/M%C3%A1quinas%20Gl%C3%BAteos/M%C3%A1quina%20Eleva%C3%A7%C3%A3o%20p%C3%A9lvica.png"
   },
@@ -3008,6 +3088,11 @@
     "grupo": "Bíceps",
     "nome": "[Bíceps] Rosca (Cabo)",
     "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/B%C3%ADceps%20%2853%29/%5BB%C3%ADceps%5D%20Rosca%20%28Cabo%29.gif"
+  },
+  {
+    "grupo": "Bíceps",
+    "nome": "Rosca Scott (Cabo)",
+    "url": "https://raw.githubusercontent.com/efylaiapp-web/gd2e23irf_ap3psd/main/Academia/B%C3%ADceps%20%2853%29/Rosca%20Scott%20%28Cabo%29.gif"
   },
   {
     "grupo": "Bíceps",
