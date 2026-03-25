@@ -6,28 +6,27 @@ GITHUB_USER = "efylaiapp-web"
 GITHUB_REPO = "gd2e23irf_ap3psd"
 BRANCH = "main"
 
-BASE_PATH_REPO = "Funcional e Mobilidade/Funcional"
+BASE_PATH = "FUNCIONAL"
 OUTPUT_FILE = "urls_funcional.txt"
 
 def main():
     base_url = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/{BRANCH}/"
     urls = []
 
-    for root, dirs, files in os.walk(BASE_PATH_REPO):
-        for fname in files:
-            if fname.lower().endswith(".gif"):
-                file_path = os.path.join(root, fname)
-                rel_path = os.path.relpath(file_path, ".").replace(os.sep, "/")
-                rel_path = unicodedata.normalize("NFC", rel_path)
-                rel_path = quote(rel_path, safe="/")
-                urls.append(base_url + rel_path)
+    for root, _, files in os.walk(BASE_PATH):
+        for file in files:
+            if file.lower().endswith((".gif", ".png")):
+                path = os.path.join(root, file).replace("\\", "/")
+                path = unicodedata.normalize("NFC", path)
+                path = quote(path, safe="/")
+                urls.append(base_url + path)
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        for u in urls:
-            f.write(u + "\n")
+        for url in urls:
+            f.write(url + "\n")
 
-    print(f"[OK] {len(urls)} URLs de FUNCIONAL geradas.")
-    print(f"Arquivo: {OUTPUT_FILE}")
+    print(f"[OK] {len(urls)} URLs geradas.")
+    print(f"Arquivo criado: {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     main()
